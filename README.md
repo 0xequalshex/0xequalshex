@@ -10,9 +10,9 @@ Abdulrahman Alghamdi
 عبدالرحمن الغامدي  
 <br>
 **Description:**  
-Computer Science student at UQU Interested for studying data science
+Computer Science student at UQU Interested for studying data engineering
 <br>
-طالب ام القرى بتخصص علوم حاسب و مهتم في دراسة علم البيانات
+طالب ام القرى بتخصص علوم حاسب و مهتم في دراسة هتدسة البيانات
 
 
 ## ***Languages and Tools***
